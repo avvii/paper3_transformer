@@ -3,4 +3,4 @@ numpy
 pandas
 matplotlib
 torch
-sklearn
+scikit-learn
